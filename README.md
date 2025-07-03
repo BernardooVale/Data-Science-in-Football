@@ -4,7 +4,7 @@ Activities and projects from the **Data Science Applied to Football** discipline
 
 ## 📁 Notebooks Overview (English)
 
-- **ativ_1.ipynb** – *Predicting Match Scores in the Russian Premier League using Poisson Distribution*  
+- **ativ_1.ipynb** – *Predicting Match Scores in the Russian League using Poisson Distribution*  
   This notebook implements a model based on the Poisson distribution to simulate and predict football match outcomes.
 
 - **ativ_2.ipynb** – *Analyzing Team xG and Aggregated Player Statistics in the Brazilian League*  
